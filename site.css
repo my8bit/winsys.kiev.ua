@@ -1,0 +1,22 @@
+input.invalid {
+    background-color: pink;
+}
+input.valid {
+    background-color: lightgreen;
+}
+
+label {
+    width: 120px;
+    float: left;
+}
+.button{
+    padding: 10px;
+    margin: 5px;
+    background-color: green;
+    
+}
+.button:hover{
+    padding: 10px;
+    margin: 5px;
+    background-color: lightgreen;    
+}
